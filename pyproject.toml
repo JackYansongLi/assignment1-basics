@@ -48,3 +48,7 @@ extend-select = ["UP"]
 ignore = [
     "F722"
 ]
+
+[[tool.uv.index]]
+url = "https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple" 
+default = true
